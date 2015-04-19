@@ -30,6 +30,4 @@ public class Layanan {
             throw new Exception ("Layanan tambahan tidak tersedia");
         }
     }
-    
-    
 }

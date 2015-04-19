@@ -47,7 +47,7 @@ public class CuciMobil {
         } catch (Exception e){
             System.out.println("Terdapat Kesalahan : " + e.getMessage());
         }
-        pelanggan1.setTipe("Nissan X-Trail");
+        pelanggan1.setTipeMobil("Nissan X-Trail");
         
         PlatNomor platNomorPelanggan1 = new PlatNomor();
         platNomorPelanggan1.setKodeAwal("H");

@@ -38,7 +38,5 @@ public class Transaksi {
 
     public void setWaktu(Date waktu) {
         this.waktu = waktu;
-    }
-    
-    
+    } 
 }

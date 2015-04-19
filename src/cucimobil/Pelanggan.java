@@ -63,7 +63,7 @@ public class Pelanggan {
         return tipeMobil;
     }
 
-    public void setTipe(String tipeMobil) {
+    public void setTipeMobil(String tipeMobil) {
         this.tipeMobil = tipeMobil;
     }
     
